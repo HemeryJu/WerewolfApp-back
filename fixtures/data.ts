@@ -1,5 +1,5 @@
 export const data = [
     {
-        test: "Test"
+        test: 'Test'
     }
-];
+]
