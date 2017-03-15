@@ -27,6 +27,9 @@
     "typescript": "^2.2.1"
   },
   "devDependencies": {
+    "grunt-karma": "^2.0.0",
+    "karma": "^1.5.0",
+    "karma-typescript": "^2.1.7",
     "standard": "^9.0.1",
     "standardts": "^1.0.0"
   }
