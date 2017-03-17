@@ -106,3 +106,6 @@ fabric.properties
 !Gruntfile.js
 !/karma.conf.js
 .tscache/
+
+## Typings
+/typings
